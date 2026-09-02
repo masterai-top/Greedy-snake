@@ -1,40 +1,46 @@
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+
 # 经典贪吃蛇街机游戏系统| 经典贪吃蛇项目 |蛇蛇大作战|贪吃蛇源码| Classic-Snake-Arcade-Game-System
 
-
-本项目聚焦经典贪吃蛇项目，保留线上现有 README 的功能、架构、截图与使用说明，并以仓库实际代码为准。
-
-
-[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
-
-
 > **丰富玩法 | 高广告收益 | 可上架iOS商店 | 完整源码**
+
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Platform](https://img.shields.io/badge/平台-iOS%20%7C%20Android%20%7C%20H5-green)]()
 [![Language](https://img.shields.io/badge/语言-Python%20%7C%20C%2B%2B-red)]()
 
+
 🔥 Classic Arcade Snake Game  
 👉 Game Engine + Movement System + Collision Logic  
 
+
 ---
 
+
 ## 🧠 Project Overview
+
 
 This is a classic Snake arcade game implementation.  
 本项目是一款经典贪吃蛇小游戏实现。
 
+
 Players control the snake, eat food, and grow longer without colliding.
+
 
 ---
 
+
 ## 🎮 Gameplay
+
 
 - Move snake in grid system / 网格移动  
 - Eat food to grow / 吃食物增长  
 - Avoid collision / 避免碰撞  
 - Increase score / 得分系统  
 
+
 ## ✨ 核心特色
+
 
 | 特色模块 | 说明 |
 | :--- | :--- |
@@ -43,6 +49,7 @@ Players control the snake, eat food, and grow longer without colliding.
 | 💰 **高盈利性** | IAA广告变现，激励视频+插屏+banner |
 | 📱 **iOS上架** | 已适配iOS，可直接上架App Store |
 | 🎮 **丰富玩法** | 多种模式：闯关、无尽、限时、对战 |
+
 
 ## 🎯 功能清单
 ✅ 经典模式 ✅ 大作战模式 ✅ 无尽模式
@@ -53,6 +60,7 @@ Players control the snake, eat food, and grow longer without colliding.
 
 ## 📸 界面预览
 
+
 | 经典模式 | 大作战模式 | 皮肤商城 |
 | :---: | :---: | :---: |
 ![主界面-侧边栏效果图](https://github.com/user-attachments/assets/c13fb21d-81a5-41df-a562-5a8eb7918be2)
@@ -61,9 +69,12 @@ Players control the snake, eat food, and grow longer without colliding.
 ![贪吃蛇主大厅 - 副本](https://github.com/user-attachments/assets/00458439-9ae3-4c07-80d5-cdf7c889376a)
 > 📷 截图正在整理中，联系我可获取最新演示视频和截图
 
+
 🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
 
+
 ## 💰 获取源码
+
 
 ✅ 完整贪吃蛇游戏源码  
 ✅ 大作战模式源码  
@@ -71,17 +82,15 @@ Players control the snake, eat food, and grow longer without colliding.
 ✅ 美术资源  
 ✅ iOS上架指导  
 
+
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
 
+👉 **联系我获取演示站 + 详细报价**
+
 
 ---
 
+
 ⭐ Star 这个仓库，支持优质贪吃蛇源码持续分享！
-
-
-
-
-
-

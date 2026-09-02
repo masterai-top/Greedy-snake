@@ -1,15 +1,8 @@
-[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# 經典贪吃蛇專案 | Classic-Snake-Arcade-Game-System
-
-本專案聚焦經典贪吃蛇專案，保留線上現有 README 的功能、架構、截圖與使用說明，並以倉庫實際程式碼為準。
-
-> 專案功能、效能、營運記錄與部署能力應結合目前版本獨立驗證；授權與第三方素材範圍以倉庫檔案為準。
-
-
+# 經典貪食蛇街機遊戲系統
 
 > **豐富玩法 | 高廣告收益 | 可上架iOS商店 | 完整源碼**
-
 
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
@@ -19,19 +12,15 @@
 [![Language](https://img.shields.io/badge/语言-Python%20%7C%20C%2B%2B-red)]()
 
 
-
 🔥 Classic Arcade Snake Game
 
 👉 Game Engine + Movement System + Collision Logic
 
 
-
 ---
 
 
-
 ## 🧠 Project Overview
-
 
 
 This is a classic Snake arcade game implementation.
@@ -39,17 +28,13 @@ This is a classic Snake arcade game implementation.
 本項目是一款經典貪吃蛇小遊戲實現。
 
 
-
 Players control the snake, eat food, and grow longer without colliding.
-
 
 
 ---
 
 
-
 ## 🎮 Gameplay
-
 
 
 - Move snake in grid system / 網格移動
@@ -61,9 +46,7 @@ Players control the snake, eat food, and grow longer without colliding.
 - Increase score / 得分系統
 
 
-
 ## ✨ 核心特色
-
 
 
 | 特色模組 | 說明 |
@@ -81,7 +64,6 @@ Players control the snake, eat food, and grow longer without colliding.
 | 🎮 **豐富玩法** | 多種模式：闖關、無盡、限時、對戰 |
 
 
-
 ## 🎯 功能清單
 
 ✅ 經典模式 ✅ 大作戰模式 ✅ 無盡模式
@@ -93,11 +75,7 @@ Players control the snake, eat food, and grow longer without colliding.
 ✅ 分享功能 ✅ 每日獎勵 ✅ 成就係統
 
 
-
-
-
 ## 📸 介面預覽
-
 
 
 | 經典模式 | 大作戰模式 | 皮商城 |
@@ -110,13 +88,10 @@ Players control the snake, eat food, and grow longer without colliding.
 > 📷 截圖正在整理中，聯絡我以取得最新示範影片和截圖
 
 
-
 🎥 **示範影片**：[聯絡我以取得線上示範](https://t.me/xuzongbin001)
 
 
-
 ## 💰 取得原始碼
-
 
 
 ✅ 完整貪吃蛇遊戲源碼
@@ -130,20 +105,15 @@ Players control the snake, eat food, and grow longer without colliding.
 ✅ iOS上架指導
 
 
-
 📱 **Telegram：@xuzongbin001**
 
 📧 **Email：masterai918@gmail.com**
 
 
-
 👉 **聯絡我以取得示範站 + 詳細報價**
-
 
 
 ---
 
 
-
 ⭐ Star 這個倉庫，支援優質貪吃蛇源碼持續分享！
-

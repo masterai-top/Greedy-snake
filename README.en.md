@@ -1,11 +1,6 @@
-[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# Classic-Snake-Arcade-Game-System
-
-Classic Snake arcade game project with source code and visual assets. This document preserves the project's existing features, architecture, screenshots and usage notes; the repository contents remain authoritative.
-
-> Validate features, performance, operational history and deployment requirements against the current version. License and third-party asset terms are defined by repository files.
-
+# Classic Snake Arcade Game System
 
 > **Rich Gameplay | High Ad Revenue | iOS Store Ready | Complete Source Code**
 
@@ -31,7 +26,6 @@ This is an implementation of a classic Snake arcade game.
 Players control the snake, eat food, and grow longer without colliding.
 
 
-
 ---
 
 
@@ -51,7 +45,7 @@ Players control the snake, eat food, and grow longer without colliding.
 | :--- | :--- |
 | 🐍 **Classic Snake** | Traditional gameplay; simple controls, easy to pick up |
 | ⚔️ **Snake Battle** | Multiplayer mode; devour others to grow; highly competitive |
-| 💰 **High Profitability** | IAA monetization (Rewarded Video + Interstitial + Banner) |
+| 💰 **Monetization Options** | IAA monetization (Rewarded Video + Interstitial + Banner) |
 | 📱 **iOS Ready** | iOS-optimized; ready for App Store submission |
 | 🎮 **Rich Gameplay** | Multiple modes: Level-based, Endless, Timed, Battle |
 
@@ -61,8 +55,6 @@ Players control the snake, eat food, and grow longer without colliding.
 ✅ Level Mode ✅ Timed Challenge ✅ Leaderboard
 ✅ Skin System ✅ Item System ✅ Ad Monetization
 ✅ Sharing Function ✅ Daily Rewards ✅ Achievement System
-
-
 
 
 ## 📸 Interface Preview
@@ -101,4 +93,3 @@ Players control the snake, eat food, and grow longer without colliding.
 
 
 ⭐ Star this repository to support the continued sharing of high-quality Snake game source code!
-
