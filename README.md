@@ -1,4 +1,5 @@
-# 经典贪吃蛇项目 |蛇蛇大作战|贪吃蛇源码| Classic-Snake-Arcade-Game-System
+# 经典贪吃蛇街机游戏系统| 经典贪吃蛇项目 |蛇蛇大作战|贪吃蛇源码| Classic-Snake-Arcade-Game-System
+
 
 本项目聚焦经典贪吃蛇项目，保留线上现有 README 的功能、架构、截图与使用说明，并以仓库实际代码为准。
 
