@@ -1,4 +1,10 @@
-# 🐍 贪吃蛇大作战源码 | 蛇蛇大作战 | 高盈利IAA游戏|Snake Game Engine | 贪吃蛇游戏系统 | 贪吃蛇
+# 经典贪吃蛇项目 |蛇蛇大作战|贪吃蛇源码| Classic-Snake-Arcade-Game-System
+
+本项目聚焦经典贪吃蛇项目，保留线上现有 README 的功能、架构、截图与使用说明，并以仓库实际代码为准。
+
+
+[简体中文](README.md) | [English](README.en.md) | [繁體中文](README.zh-TW.md)
+
 
 > **丰富玩法 | 高广告收益 | 可上架iOS商店 | 完整源码**
 
@@ -67,7 +73,7 @@ Players control the snake, eat food, and grow longer without colliding.
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示站 + 详细报价**
+
 
 ---
 
